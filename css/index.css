@@ -1,0 +1,25 @@
+body {
+    font-size:95%;
+    color:rgb(100, 100, 0);
+    background-color:#ffffff;
+    width: 1080px;
+    font-family:Verdana, “游ゴシック”, YuGothic, “Hiragino Kaku Gothic ProN”, Meiryo, sans-serif;
+}
+
+.obi{
+    max-width:100%;
+    height:auto;
+}
+
+h1{
+    background-color:#FFFFCC;
+    font-size:150%;
+    line-height:50px;
+    padding-left:5px;
+    border:1px solid #000000;
+}
+
+p{
+    color:black;
+    font-size:110%;
+}
