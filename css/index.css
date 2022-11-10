@@ -1,79 +1,74 @@
 body {
-    font-size:95%;
-    color:rgb(100, 100, 0);
-    background-color:#ffffff;
-    width: 1920px;
-    font-family:Verdana, “游ゴシック”, YuGothic, “Hiragino Kaku Gothic ProN”, Meiryo, sans-serif;
+  font-size:95%;
+  color:rgb(100, 100, 0);
+  background-color:#fcfff0;
+  width: 1920px;
+  font-family:Verdana, “游ゴシック”, YuGothic, “Hiragino Kaku Gothic ProN”, Meiryo, sans-serif;
 }
 
 .obi{
-    width:100%;
-    height:auto;
+  width:100%;
+  height:auto;
 }
 
 h1{
-    background-color:#FFFFCC;
-    font-size:150%;
-    line-height:50px;
-    padding-left:5px;
-    border:1px solid #000000;
+  background-color:#FFFFCC;
+  font-size:150%;
+  line-height:50px;
+  padding-left:5px;
+  border:1px solid #000000;
 }
-
 .link1{
-    text-align:center;
-    font-size: 2rem;
-    color: #fff;
-    border-radius: 100vh;
-    background-image: -webkit-linear-gradient(110deg, #e9defa 0%, #fbfcdb 100%);
-    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
-    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
-    box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
-    width: 300px;
-    margin: 0px auto 30px auto;
+  text-align:center;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: 100vh;
+  background-image: -webkit-linear-gradient(110deg, #e9defa 0%, #fbfcdb 100%);
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
+  width: 300px;
+  margin: 0px auto 30px auto;
 }
-
 .link2{
-    text-align:center;
-    font-size: 2rem;
-    color: #fff;
-    border-radius: 100vh;
-    background-image: -webkit-linear-gradient(110deg, #e9defa 0%, #fbfcdb 100%);
-    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
-    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
-    box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
-    width: 300px;
-    margin: 0px auto 30px auto;
+  text-align:center;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: 100vh;
+  background-image: -webkit-linear-gradient(110deg, #e9defa 0%, #fbfcdb 100%);
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
+  width: 300px;
+  margin: 0px auto 30px auto;
 }
-
 .link3{
-    text-align:center;
-    font-size: 2rem;
-    color: #fff;
-    border-radius: 100vh;
-    background-image: -webkit-linear-gradient(110deg, #e9defa 0%, #fbfcdb 100%);
-    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
-    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
-    box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
-    width: 300px;
-    margin: 0px auto 30px auto;
+  text-align:center;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: 100vh;
+  background-image: -webkit-linear-gradient(110deg, #e9defa 0%, #fbfcdb 100%);
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
+  width: 300px;
+  margin: 0px auto 30px auto;
 }
-
 .link4{
-    text-align:center;
-    font-size: 2rem;
-    color: #fff;
-    border-radius: 100vh;
-    background-image: -webkit-linear-gradient(110deg, #e9defa 0%, #fbfcdb 100%);
-    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
-    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
-    box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
-    width: 300px;
-    margin: 0px auto 30px auto;
+  text-align:center;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: 100vh;
+  background-image: -webkit-linear-gradient(110deg, #e9defa 0%, #fbfcdb 100%);
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
+  width: 300px;
+  margin: 0px auto 30px auto;
 }
 
 p{
-    text-align: center;
-    color:black;
-    font-size:110%;
+  text-align: center;
+  color:black;
+  font-size:110%;
 }
-
